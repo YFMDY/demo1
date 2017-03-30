@@ -1,0 +1,17 @@
+a{
+	text-decoration:none;
+}
+
+article{
+	line-height:1.8em;
+}
+article p{
+	margin:1em 0;
+}
+/*live*/
+dt{
+	margin-right:1em;
+}
+dd{
+	margin-right:3em;
+}
